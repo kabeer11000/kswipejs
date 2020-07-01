@@ -1,4 +1,4 @@
-# kswipeone
+# K Swipe JS
 
 
 
